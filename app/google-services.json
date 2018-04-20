@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876876411358",
+    "firebase_url": "https://courierapp-3b568.firebaseio.com",
+    "project_id": "courierapp-3b568",
+    "storage_bucket": "courierapp-3b568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876876411358:android:ace14c8b4d76eb03",
+        "android_client_info": {
+          "package_name": "com.example.szymon.courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876876411358-3c1693ka6k7fdllmhlkftkobdu6ghim5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.szymon.courier",
+            "certificate_hash": "f31c5950ce2bff8f0b7c3aea2f5f9f0f0b2b49b3"
+          }
+        },
+        {
+          "client_id": "876876411358-ssl29266evbhroq22u1d729dnkogn79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5cib8IDsZmqOjJN7tlQw8Yn21p8HxLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876876411358-ssl29266evbhroq22u1d729dnkogn79b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

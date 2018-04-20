@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_wyloguj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/button"
+        android:layout_margin="4dp"
+        android:text="Wyloguj" />
+
+    <Button
+        android:id="@+id/button_poakz_wszystko"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="@color/button"
+        android:text="Pokaż cala baze" />
+
+    <Button
+        android:id="@+id/button_poakz_mape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/button"
+        android:layout_margin="4dp"
+        android:text="Pokaż mape" />
+
+</LinearLayout>

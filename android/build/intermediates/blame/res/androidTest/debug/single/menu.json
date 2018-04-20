@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\encode.xml",
+        "source": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\bundles\\debug\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\history.xml",
+        "source": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\bundles\\debug\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\capture.xml",
+        "source": "F:\\Projekty\\Android Projekty\\Courier i Badescaner\\android\\build\\intermediates\\bundles\\debug\\res\\menu\\capture.xml"
+    }
+]
